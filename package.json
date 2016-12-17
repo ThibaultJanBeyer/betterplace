@@ -1,0 +1,19 @@
+{
+  "name": "betterplace",
+  "version": "1.0.0",
+  "description": "make the world a better place",
+  "main": "./src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "threejs",
+    "react",
+    "better",
+    "place",
+    "world",
+    "ngo"
+  ],
+  "author": "Thibault Jan Beyer",
+  "license": "MIT"
+}
