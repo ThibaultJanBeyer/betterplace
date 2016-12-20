@@ -1,0 +1,25 @@
+{
+  "name": "betterplace",
+  "description": "make the world your better place",
+  "main": "./src/index.html",
+  "authors": [
+    "Thibault Jan Beyer"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "threejs",
+    "react",
+    "better",
+    "place",
+    "world",
+    "ngo"
+  ],
+  "homepage": "https://github.com/ThibaultJanBeyer/betterplace",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
